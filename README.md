@@ -1,3 +1,4 @@
+![My Gym Tracker Banner](assets/banner.png)
 # 💪 My Gym Tracker
 
 A modern gym workout and fitness tracking application built with **React + Vite**.
